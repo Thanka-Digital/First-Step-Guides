@@ -5,7 +5,7 @@ When working with `open source projects` built at Thanka Digital (such as [beej]
 **Steps**
 
 1. Fork the repository
-2. Follow the [git branching pattern](https://github.com/thanka-digital/First-Step-Guides)
+2. Follow the [git branching pattern](https://github.com/Thanka-Digital/First-Step-Guides/blob/main/GIT-%26-GITHUB.MD#branching-for-open-source-projects)
 3. Write your magics into the code
 4. Send a PR to the repo's recommended **branch**
 
