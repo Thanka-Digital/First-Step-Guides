@@ -70,7 +70,7 @@ In this section we will talk about rules and conventions that are specific to fr
 
 In this section we will go through the rules and conventions that are specific to backend developers.
 
-> [!TIP]
+> [!NOTE]
 >
 > For now we use only `Node JS` and `Go` as the backend scripting languages.
 
@@ -102,7 +102,7 @@ In this section we will go through the rules and conventions that are specific t
 
 In this section we will look at the rules and conventions that are specific to mobile app developers.
 
-> [!TIP]
+> [!NOTE]
 >
 > For now we use only `Flutter` and `React Native` as the framework of choices.
 
