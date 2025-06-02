@@ -4,7 +4,7 @@ Coding conventions are drag to follow and quite frustrating too but they are wha
 
 So it will be a long one be prepared. If you want to jump to other section and come back to this one later you can do that too.
 
-> [!Note]
+> [!NOTE]
 >
 > For some guides like `Open source contribution` we recommend you first go through your respective coding convention before moving onto them.
 
@@ -31,7 +31,7 @@ In this section we will look through some common practices that needs to be foll
 
 In this section we will talk about rules and conventions that are specific to frontend developers.
 
-> [!Hint]
+> [!NOTE]
 >
 > For now we use only `React` /`Next JS` and `Vue` / `Nuxt` as the frontend library and framework of choices.
 
@@ -62,7 +62,7 @@ In this section we will talk about rules and conventions that are specific to fr
         > _components (for local components)
 ```
 
-> [!Hint]
+> [!TIP]
 >
 > There is work going on in an open source project called `beej` for creating React and Vue based application with folder structure and configuration already scaffolded. You can use the library to start with new project.
 
@@ -70,7 +70,7 @@ In this section we will talk about rules and conventions that are specific to fr
 
 In this section we will go through the rules and conventions that are specific to backend developers.
 
-> [!Hint]
+> [!TIP]
 >
 > For now we use only `Node JS` and `Go` as the backend scripting languages.
 
@@ -94,7 +94,7 @@ In this section we will go through the rules and conventions that are specific t
     - index.{js|ts}  (entry point of the server)
 ```
 
-> [!Hint]
+> [!TIP]
 >
 > When using other frameworks like `Nest JS` follow the folder convention of the framework first then add the **utils** folder for any utility functions.
 
@@ -102,7 +102,7 @@ In this section we will go through the rules and conventions that are specific t
 
 In this section we will look at the rules and conventions that are specific to mobile app developers.
 
-> [!Hint]
+> [!TIP]
 >
 > For now we use only `Flutter` and `React Native` as the framework of choices.
 
@@ -129,6 +129,6 @@ In this section we will look at the rules and conventions that are specific to m
         > _widgets (for local widgets)
 ```
 
-> [!Hint]
+> [!TIP]
 >
 > There is an effort going to create `a template repo` with **theme and folder structure** already created. You can use that to start a new repo.
