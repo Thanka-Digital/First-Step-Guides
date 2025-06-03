@@ -64,7 +64,7 @@ In this section we will talk about rules and conventions that are specific to fr
 
 > [!TIP]
 >
-> There is work going on in an open source project called `beej` for creating React and Vue based application with folder structure and configuration already scaffolded. You can use the library to start with new project.
+> There is work going on in an open source project called [`beej`](https://github.com/Thanka-Digital/beej-monorepo) for creating React and Vue based application with folder structure and configuration already scaffolded. You can use the library to start with new project.
 
 ### Backend developers
 
