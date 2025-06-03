@@ -4,7 +4,7 @@ When it comes to **Git & Github** we have some rules regarding the branches and 
 
 ## Commit
 
-For commit messages we encourage you to be more **atomic** with it meaning commit as frequently as possible. _(Note: It doesn't mean you create commit message for each modification, rather write commit message for modifications that are related to each other)_.
+For commit messages we encourage you to be more **atomic**, meaning commit as frequently as possible. _(Note: It doesn't mean you create commit message for each modification, rather write commit message for modifications that are related to each other)_.
 
 Example:
 
@@ -32,7 +32,7 @@ For example:
 
 - **feature: add login feature**
 - **chore: created config file for eslint**
-- **WIP: booking implementation** (WIP refers to **W**ork **I**n **P**rogress, sometimes you cannot finish some task for the day but we still encourge you to commit and push your code for that you can warn others about incomplete task with WIP tag)
+- **WIP: booking implementation** (WIP refers to **W**ork **I**n **P**rogress, sometimes you cannot finish some task for the day but we still encourage you to commit and push your code. So in order to warn fellow developers about the incomplete task use the **WIP** tag)
 
 ## Branching for private projects
 
@@ -92,4 +92,4 @@ As you can see the branching system is similar to private one except for few cha
     - **DO NOT PUSH DIRECTLY TO RELEASE BRANCHES**
     - **ONLY MERGE PR FROM DEV AND HOTFIX**
     - There will be multiple release branches related to each major release and its corresponding minor + patch releases. The onces that will get deleted are the one that are depricated and not supported anymore.
-- **FEATURE** branch are similar to the private project only you have to **CREATE THEM IN YOUR OWN `forked repo` AND NOT IN THE `main repo`**
+- **FEATURE** branch are similar to the private project only you have to **CREATE THEM IN YOUR OWN `FORKED REPO` AND NOT IN THE `MAIN REPO`**
